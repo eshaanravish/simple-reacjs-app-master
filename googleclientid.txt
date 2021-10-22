@@ -1,0 +1,3 @@
+clientId: 904066725876-immqu4c1bm72vm9vlv127l9emr40mhch.apps.googleusercontent.com
+
+clientSecret: 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
